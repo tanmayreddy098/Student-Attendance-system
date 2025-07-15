@@ -1,8 +1,8 @@
 # Student-Attendance-system
 
 User of this System
-    Admin
-    Teacher
+    1. Admin
+    2. Teacher
 
 Admin Activity
     Admin can Add Update Delete Grade Master Data
